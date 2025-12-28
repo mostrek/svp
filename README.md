@@ -1,4 +1,4 @@
-# SVP — Stable Video Portraits
+# Stable Video Portraits
 
 Mirela Ostrek and Justus Thies  
 
@@ -15,13 +15,13 @@ It combines advances in 2D text-to-image generative AI with 3D face reconstructi
 
 Key features include:
 
-Person-specific fine-tuning of a general 2D stable diffusion model
+- Person-specific fine-tuning of a general 2D stable diffusion model
 
-3DMM-based temporal conditioning to lift 2D image generation to video
+- 3DMM-based temporal conditioning to lift 2D image generation to video
 
-A temporal denoising procedure to ensure smooth motion across frames
+- A temporal denoising procedure to ensure smooth motion across frames
 
-Editable facial appearance, allowing morphing to text-defined celebrities without additional test-time fine-tuning
+- Editable facial appearance, allowing morphing to text-defined celebrities without additional test-time fine-tuning
 
 The result is a high-quality, temporally consistent person-specific avatar controllable via 3DMM parameters. SVP outperforms prior monocular head avatar methods in both quantitative and qualitative evaluations.
 
